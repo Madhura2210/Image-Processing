@@ -8,3 +8,5 @@ Technologies used are python, cv2, numpy and I am coding entirely in jupyter not
 3. Open the notebook:
    jupyter notebook
 
+References
+CampusX channel playlist for Image Processing
