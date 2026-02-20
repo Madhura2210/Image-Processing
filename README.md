@@ -1,5 +1,5 @@
 I am trying to work with image processing libraries in python. The objective is to understand image processing in deep from scratch.
-Technologies used are python, cv2, numpy and I am coding entirely in jupyter notebook.
+Technologies used are python, cv2, numpy and I am coding in jupyter notebook and PyCharm.
 ## How to Run
 
 1. Clone the repository
